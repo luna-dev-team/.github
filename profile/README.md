@@ -31,7 +31,7 @@ We are always looking for passionate engineers, researchers, and creators to joi
 ## 📬 Contact Us
 
 * **Website:** [insert link]
-* **Email:** chattivaofficial@gmail.com
+* **Email:** lunalabs46@gmail.com
 * **LinkedIn:** [insert link]
 * **Location:** Bangalore, India
 
