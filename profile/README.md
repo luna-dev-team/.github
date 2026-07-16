@@ -1,8 +1,8 @@
 # Luna Labs
 ### EdgeAI Innovations For Humankind
 
-<p align="center">
-  <img src="logo_reveal.gif" width="700" alt="Animation">
+<p align="left">
+  <img src="logo_reveal.gif" alt="Animation">
 </p>
 
 Welcome to the official repository for **Luna Labs**, a Bangalore-based startup dedicated to pushing the boundaries of technology. We engineer **Edge-AI integrated hardware** designed to empower and assist humankind.
