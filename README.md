@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo_reveal.gif" alt="Animation">
+  <img src="profile/logo_reveal.gif" alt="Animation">
 </p>
 
 # Luna Labs
