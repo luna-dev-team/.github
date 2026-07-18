@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo_code__copy.gif" alt="Animation">
+  <img src="logo_reveal_current.gif" alt="Animation">
 </p>
 
 # Luna Labs
