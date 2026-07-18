@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="logo_reveal.gif" alt="Animation">
 </p>
 
